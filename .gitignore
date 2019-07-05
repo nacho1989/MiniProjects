@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/ComparatorEngine/bin/Debug
+*bin
+*obj
+*packages
+*App_Data
